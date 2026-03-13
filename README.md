@@ -1,2 +1,3 @@
-# george_pet_projects
+# George pet projects
+
 Some set of home pet projects for fun.
